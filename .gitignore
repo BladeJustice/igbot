@@ -1,0 +1,11 @@
+# secrets: NEVER commit these
+.env
+
+# Python junk
+venv/
+__pycache__/
+*.pyc
+
+# generated/runtime data
+out/
+runs.db

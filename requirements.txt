@@ -1,0 +1,7 @@
+google-genai
+pillow
+requests
+pydantic
+cloudinary
+apscheduler
+python-dotenv
